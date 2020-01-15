@@ -2,7 +2,7 @@
   "name": "js_dependencies_intro1",
   "version": "1.0.0",
   "repository": "https://github.com/norzserge/js_dependencies_intro1.git",
-  "main": "index.js",
+  "main": "./src/index.js",
   "license": "MIT",
   "scripts": {
     "start": "nodemon"
