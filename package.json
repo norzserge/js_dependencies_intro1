@@ -1,0 +1,16 @@
+{
+  "name": "js_dependencies_intro1",
+  "version": "1.0.0",
+  "repository": "https://github.com/norzserge/js_dependencies_intro1.git",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
